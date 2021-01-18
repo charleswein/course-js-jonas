@@ -19,4 +19,4 @@
 
 **App is asynchonously loaded the images in 2 seconds.**
 
-[Async Images Project](https://charleswein.github.io/course-js-jonas/)
+[Async Images Project](https://charleswein.github.io/course-js-jonas/Async%20images/)
