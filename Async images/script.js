@@ -11,7 +11,7 @@ const createImage = function (imgPath, cl) {
     newImg.addEventListener('load', function () {
       document
         .querySelector(cl)
-        .insertAdjacentElement('beforeend', newImg);
+        .append(newImg);
       res(newImg);
     });
     newImg.addEventListener('error', function () {
