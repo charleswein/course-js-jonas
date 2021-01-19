@@ -108,19 +108,30 @@ body {
   cursor: pointer;
 }
 
-.images {
+.images1 {
   display: flex;
 }
 
-.images img {
+.images1 img {
   display: block;
   width: 80rem;
   margin: 4rem;
 }
 
-.images img.parallel {
+.images2 {
+  display: flex;
+}
+
+.images2 img {
+  display: block;
+  width: 80rem;
+  margin: 4rem;
+}
+
+.images2 img.parallel {
   width: 40rem;
   margin: 2rem;
   border: 3rem solid white;
   box-shadow: 0 2rem 5rem 1rem rgba(0, 0, 0, 0.1);
 }
+
